@@ -1,7 +1,9 @@
 # Hello world!
 This will be my first file on GitHub.
-<<<<<<< HEAD
-Vytvoříme konflikt - přidáme řádek
-Tady bude konfliktni radek.
-A pak konflikt zase vyresime!
+- Dalsi radek
+- Treti radek
+##Konflikt
+- Vytvoříme konflikt - přidáme řádek
+- Tady bude konfliktni radek.
+> A pak konflikt zase vyresime!
 
